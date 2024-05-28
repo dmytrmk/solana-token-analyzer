@@ -23,7 +23,7 @@ A Node.js tool for in-depth analysis of Solana tokens. This script fetches compr
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/solana-token-analyzer.git
+   git clone https://github.com/dmytrmk/solana-token-analyzer.git
    ```
 
 2. Navigate to the project directory:

@@ -41,8 +41,7 @@
     "figlet": "^1.7.0",
     "gradient-string": "^2.0.2",
     "inquirer": "^8.2.6",
-    "ora": "^5.4.1",
-    "sharp": "^0.33.5"
+    "ora": "^5.4.1"
   },
   "repository": {
     "type": "git",
